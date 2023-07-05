@@ -1,0 +1,1 @@
+"Ceci est un exemple de site que j'ai modifié. J'ai changé les styles, ajouté du contenu HTML et codé la partie PHP avec une petite base de données, en implémentant également des scripts jQuery pour l'affichage."
